@@ -18,3 +18,6 @@ Your nickname(s).
 
 ### Duration
 15 mins / 30 mins / 1 hr / other (please specify).
+
+### Do you need time to prepare this talk?
+If yes, how long?
