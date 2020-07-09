@@ -1,7 +1,7 @@
 ---
 name: Talk Proposal
 about: To propose a topic that you would like to share during the session
-title: "[Proposal]"
+title: "[Proposal] Title of your topic"
 labels: proposal
 assignees: pakaponk
 
